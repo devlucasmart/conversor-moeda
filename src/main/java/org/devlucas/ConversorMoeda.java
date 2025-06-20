@@ -1,4 +1,4 @@
-package org.example;
+package org.devlucas;
 
 import com.google.gson.Gson;
 import io.github.cdimascio.dotenv.Dotenv;

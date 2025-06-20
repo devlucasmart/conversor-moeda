@@ -1,4 +1,4 @@
-package org.example;
+package org.devlucas;
 
 import java.util.Map;
 
