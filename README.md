@@ -35,5 +35,3 @@ Este é um **Conversor de Moedas** simples em linha de comando, desenvolvido em 
 ## Como Usar
 
 Ao iniciar, o sistema exibirá um menu no terminal para escolher o tipo de conversão ou inserir moedas manualmente. Basta seguir as instruções na tela para realizar as conversões.
-
-### Exemplo de Uso
