@@ -7,7 +7,7 @@ import java.net.http.HttpResponse;
 public class ConversorMoeda {
 
     private ExchangeRateResponse obterCotacao(String base) {
-        URI cambio = URI.create("https://v6.exchangerate-api.com/v6/1fd2fd874e34ad219d7cecec/latest/" + base);
+        URI cambio = URI.create("https://v6.exchangerate-api.com/v6/XXXXX/latest/" + base);
         HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(cambio)
